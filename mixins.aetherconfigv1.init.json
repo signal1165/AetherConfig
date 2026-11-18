@@ -1,0 +1,8 @@
+{
+  "compatibilityLevel": "JAVA_25",
+  "minVersion": "0.8",
+  "package": "org.aetherhaven.aetherconfig.internal.mixin.init",
+  "plugin": "org.aetherhaven.aetherconfig.internal.AetherConfigEarlyMixinInit",
+  "verbose": true,
+  "target": "@env(INIT)"
+}
